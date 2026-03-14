@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+
+/* class selector examples */
+.all_odd_numbered_elements {
+    background-color: rgb(255, 182, 193);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+/* id selector examples */
+#one_ID {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#another_ID {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
